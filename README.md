@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pianka-pani-18&label=Profile%20views&color=0e75b6&style=flat" alt="pianka-pani-18" /> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **ReactJS and DSA**
+- 🌱 I’m currently learning **ReactJS and Java DSA**
 
 - 👯 I’m looking for interships opportunities on **front-end development**
 
-- 👨‍💻 All of my projects are available at [https://pinaka-pani-18.github.io/Portfolio-React_and_TailwindCSS/](https://pinaka-pani-18.github.io/Portfolio-React_and_TailwindCSS/)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/Pinaka-Pani-18?tab=repositories)
 
 - 📫 How to reach me **developerpani1806@gmail.com**
 
